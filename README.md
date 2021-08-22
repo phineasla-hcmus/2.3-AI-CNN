@@ -17,6 +17,8 @@ You can refer to the following tutorials:
 - [Beginner-friendly Project Cat and Dog classification using CNN](https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/)
 - [Build a Convnet for Cat vs Dog Classification](https://developers.google.com/machine-learning/practica/image-classification/exercise-1)
 - [How to Classify Photos of Dogs and Cats (with 97% accuracy)](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/)
+- [Keras CNN Dog or Cat Classification | Kaggle](https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification)
+- [Hey Siri!! is it a 🐱 or🐶 !! 🎯 Class-f1 (0.992) | Kaggle](https://www.kaggle.com/bhuvanchennoju/hey-siri-is-it-a-or-class-f1-0-992)
 
 ### I.1.2. Dataset
 

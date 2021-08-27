@@ -41,7 +41,7 @@ In the report of this section, you should include the following:
 
 You are not required to do this section.
 In this part, you are asked to write a program that uses the results of the previous section to draw
-bounding boxes around dogs and cats in pictures. You can refer to the tutorial onsliding window
+bounding boxes around dogs and cats in pictures. You can refer to the tutorial on sliding window
 technique.
 
 ### I.2.1. Report
